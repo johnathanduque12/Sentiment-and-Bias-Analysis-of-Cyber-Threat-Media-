@@ -88,7 +88,7 @@ NLTK data is downloaded automatically on first run.
 
 Place your cyber threat documents (`.txt`, `.pdf`, `.docx`) in one of two locations:
 
-- **Zip archive** — name it `Project 1 Files.zip` and place it in the same directory as the script.
+- **Zip archive** — name it `data` and place it in the same directory as the script.
 - **Flat directory** — place files directly alongside the script (or configure `data_dir` in Section 2).
 
 ### 2. Run the analysis
