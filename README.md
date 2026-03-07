@@ -142,6 +142,15 @@ Input Documents
      Visualizations + CSV Export
 ```
 
+## My Findings
+<img width="1400" height="600" alt="Figure_4 (1)" src="https://github.com/user-attachments/assets/5128edb1-ab66-4ec6-8d76-bfc1e393f2b3" />
+<img width="1400" height="600" alt="Figure_4" src="https://github.com/user-attachments/assets/a6d14e9a-a04f-4a88-beb8-f96138125c4b" />
+<img width="1706" height="958" alt="Figure_3" src="https://github.com/user-attachments/assets/f89ff105-c386-4aec-9ea0-002eaab90cb2" />
+<img width="1400" height="600" alt="Figure_2" src="https://github.com/user-attachments/assets/1a2acc03-53bc-4144-a0fe-86ff35491e97" />
+<img width="1400" height="600" alt="Figure_1" src="https://github.com/user-attachments/assets/eea2b852-f60d-4d33-a2ce-2191cddb0384" />
+
+
+
 ## Author
 
 **Johnathan Duque**
