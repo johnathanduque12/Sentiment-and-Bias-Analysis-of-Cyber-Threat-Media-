@@ -145,7 +145,3 @@ Input Documents
 ## Author
 
 **Johnathan Duque**
-
-## License
-
-This project was developed for academic purposes. Please contact the author for reuse or distribution permissions.
