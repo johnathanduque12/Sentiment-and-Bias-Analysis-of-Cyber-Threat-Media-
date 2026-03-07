@@ -143,6 +143,7 @@ Input Documents
 ```
 
 ## My Findings
+I examined 20 cybersecurity intelligence related documents totaling over 100,000 words, spanning from government reports, vendor analyses, media articles, and international sources.
 <img width="1400" height="600" alt="Figure_4 (1)" src="https://github.com/user-attachments/assets/5128edb1-ab66-4ec6-8d76-bfc1e393f2b3" />
 <img width="1400" height="600" alt="Figure_4" src="https://github.com/user-attachments/assets/a6d14e9a-a04f-4a88-beb8-f96138125c4b" />
 <img width="1706" height="958" alt="Figure_3" src="https://github.com/user-attachments/assets/f89ff105-c386-4aec-9ea0-002eaab90cb2" />
