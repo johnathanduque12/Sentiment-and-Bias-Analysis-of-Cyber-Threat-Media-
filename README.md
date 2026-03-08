@@ -7,7 +7,7 @@
 ![NLP](https://img.shields.io/badge/NLP-VADER%20%2B%20Transformers-blueviolet)
 ![LDA](https://img.shields.io/badge/Topic%20Modeling-Gensim%20LDA-orange)
 
-CyberSentinel ingests cybersecurity reports from multiple source types — government advisories, vendor whitepapers, news articles, academic papers, and international publications — and measures **how** they frame threats, not just **what** they report. It detects emotional tone via dual sentiment engines (VADER + DistilBERT), scans for four categories of editorial bias using custom lexicons, discovers latent topics with LDA, and produces a rich set of visualizations and a structured CSV export.
+CyberSentinel ingests cybersecurity reports from multiple source types — government advisories, vendor whitepapers, news articles, academic papers, and international publications, and measures **how** they frame threats, not just **what** they report. It detects emotional tone via dual sentiment engines (VADER + DistilBERT), scans for four categories of editorial bias using custom lexicons, discovers latent topics with LDA, and produces a rich set of visualizations and a structured CSV export.
 
 > **Academic Context:** Originally developed as a research project exploring how different stakeholders in the cybersecurity ecosystem frame the same threats with different language, tone, and intent.
 
@@ -190,7 +190,7 @@ The toolkit generates four plots automatically:
 |------|----------|
 | **Sentiment Distribution** | Box plot of VADER compound scores by source type + stacked bar chart of positive/neutral/negative document counts |
 | **Bias vs Sentiment** | Scatter plot correlating commercial bias intensity with sentiment polarity + grouped bar chart of averages by source |
-| **Bias Pattern Dashboard** | 4-panel view — heatmap of bias scores across sources, grouped bar comparison, dominant bias frequency, and overall score histogram |
+| **Bias Pattern Dashboard** | 4-panel view heatmap of bias scores across sources, grouped bar comparison, dominant bias frequency, and overall score histogram |
 | **Topic Modeling Results** | Horizontal bar chart of top words per LDA topic + grouped bar chart showing topic distribution across source types |
 
 All plots are saved at 300 DPI to `./output/` and displayed interactively via `plt.show()`.
