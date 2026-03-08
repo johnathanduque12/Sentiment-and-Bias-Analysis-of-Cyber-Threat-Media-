@@ -36,7 +36,7 @@ CyberSentinel ingests cybersecurity reports from multiple source types — gover
 | **Language Detection & Translation** | Detects non-English documents via `langdetect` and translates them to English using Google Translate with chunking and rate-limit handling |
 | **Text Preprocessing** | Cleans raw text (URL/email removal, regex normalization), tokenizes, removes stopwords + domain-specific noise words, and lemmatizes via NLTK |
 | **Source Classification** | Heuristic keyword classifier that labels documents as government, vendor, media, research, international, or unknown based on filename and path |
-| **VADER Sentiment** | Rule-based sentiment scoring optimized for news and social media content — returns compound, positive, neutral, and negative scores per document |
+| **VADER Sentiment** | Rule-based sentiment scoring optimized for news and social media content. Returns compound, positive, neutral, and negative scores per document |
 | **Transformer Sentiment** | Deep learning sentiment via DistilBERT (`distilbert-base-uncased-finetuned-sst-2-english`) with intelligent sentence chunking and voting-based aggregation |
 | **Sentence-Level Sentiment** | Breaks documents into individual sentences and scores each one to surface localized emotional spikes hidden in otherwise neutral text |
 | **Bias Detection Engine** | Scans for four bias categories (commercial, political, geopolitical, sensationalism) using curated lexicons with density scoring and context extraction |
