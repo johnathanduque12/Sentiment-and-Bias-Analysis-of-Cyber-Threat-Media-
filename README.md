@@ -321,6 +321,11 @@ contexts = analyze_bias_context("The unprecedented attack was catastrophic.",
 
 🎉 ANALYSIS COMPLETE!
 ```
+Graph's Created:
+<img width="1400" height="600" alt="Figure_4" src="https://github.com/user-attachments/assets/9e72f246-f89b-4a8f-887a-081c290bd2e3" />
+<img width="1706" height="958" alt="Figure_3" src="https://github.com/user-attachments/assets/c74bdb5b-22ee-4cfb-9f5d-964aba4135cd" />
+<img width="1400" height="600" alt="Figure_2" src="https://github.com/user-attachments/assets/5cfe7717-847b-4539-9f83-1cd71ff92d36" />
+<img width="1400" height="600" alt="Figure_1" src="https://github.com/user-attachments/assets/2adc5a34-2d3c-40dd-908f-112de67d2410" />
 
 ---
 
