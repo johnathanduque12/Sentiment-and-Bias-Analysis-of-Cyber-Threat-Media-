@@ -105,7 +105,7 @@ python Sentiment_and_Bias_Analysis_of_Cyber_Threat_Media.py
 python Sentiment_and_Bias_Analysis_of_Cyber_Threat_Media.py
 ```
 
-Results are saved to the `./output/` directory — including four PNG visualizations and a CSV file with all computed scores.
+Results are saved to the `./output/` directory, including four PNG visualizations and a CSV file with all computed scores.
 
 ---
 
